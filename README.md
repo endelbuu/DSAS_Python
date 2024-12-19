@@ -1,2 +1,2 @@
 # DSAS_Python
-Python_project from DSAS
+Extracting and Visualizing Stock Data Python project
